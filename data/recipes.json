@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "title": "Baklava",
+      "image": "images/Baklava.jpeg",
+      "ingredients": [
+        "450g chopped nuts (almonds, pistachios, etc.)",
+        "1 pack of phyllo dough",
+        "225g melted butter",
+        "200g sugar",
+        "240ml water",
+        "120ml honey",
+        "1 tsp vanilla extract",
+        "1 tsp lemon zest"
+      ],
+      "instructions": "Layer the phyllo sheets with melted butter, adding layers of nuts in between. Bake at 175°C for 50 minutes. Boil sugar, honey, water, vanilla, and lemon zest for syrup. Pour hot syrup over hot baklava. Let cool before serving."
+    },
+    {
+      "id": 2,
+      "title": "Borek",
+      "image": "images/borek.jpeg",
+      "ingredients": [
+        "8 sheets of yufka (or phyllo dough)",
+        "300g fresh spinach",
+        "200g crumbled feta cheese",
+        "1 egg",
+        "Melted butter",
+        "Salt and pepper"
+      ],
+      "instructions": "Sauté the spinach and mix with feta and egg. Fill and roll into yufka sheets brushed with butter. Brush top with egg yolk and bake at 180°C for 30 minutes until golden."
+    },
+    {
+      "id": 3,
+      "title": "Cay",
+      "image": "images/cay.jpeg",
+      "ingredients": [
+        "2-3 tablespoons of loose black tea",
+        "Water"
+      ],
+      "instructions": "Boil water in the bottom part of a Turkish teapot. Put tea leaves in the top part and add a little hot water. Let it steep for 10–15 minutes. Pour strong tea first, then dilute with hot water to taste."
+    },
+    {
+      "id": 4,
+      "title": "Kebab",
+      "image": "images/Kebab.jpeg",
+      "ingredients": [
+        "500g ground lamb or beef",
+        "1 grated onion",
+        "2 cloves of garlic",
+        "Paprika, cumin, salt, pepper"
+      ],
+      "instructions": "Mix all ingredients thoroughly. Shape onto skewers. Grill over charcoal or in a grill pan until fully cooked."
+    },
+    {
+      "id": 5,
+      "title": "Lahmacun",
+      "image": "images/lahmacun.jpeg",
+      "ingredients": [
+        "250g flour",
+        "150ml warm water",
+        "1 tsp dry yeast",
+        "250g ground meat",
+        "1 onion, 2 tomatoes, 1 red pepper",
+        "2 cloves of garlic, tomato paste",
+        "Paprika, cumin, salt, pepper"
+      ],
+      "instructions": "Make the dough and let it rise. Mix all filling ingredients. Roll dough into thin circles, spread filling on top, and bake at 220°C for 10 minutes."
+    },
+    {
+      "id": 6,
+      "title": "Meze",
+      "image": "images/meze.jpeg",
+      "ingredients": [
+        "Hummus",
+        "Tzatziki",
+        "Tabbouleh",
+        "Stuffed grape leaves (dolmas)",
+        "Olives",
+        "Feta cheese",
+        "Pita bread"
+      ],
+      "instructions": "Arrange each meze in small bowls or plates. Serve cold or at room temperature with pita bread."
+    },
+    {
+      "id": 7,
+      "title": "Pide",
+      "image": "images/pide.jpeg",
+      "ingredients": [
+        "500g flour",
+        "1 tsp dry yeast",
+        "300ml warm water",
+        "1 tbsp olive oil",
+        "1 tsp salt",
+        "Filling: ground meat, cheese, or vegetables"
+      ],
+      "instructions": "Prepare the dough and let rise. Roll into oval shapes, add filling, fold edges, and bake at 220°C for 20 minutes."
+    },
+    {
+      "id": 8,
+      "title": "Simit",
+      "image": "images/simit.jpeg",
+      "ingredients": [
+        "500g flour",
+        "1 tsp dry yeast",
+        "250ml warm water",
+        "1 tbsp sugar",
+        "100g molasses or honey",
+        "Sesame seeds"
+      ],
+      "instructions": "Make the dough and let it rise. Shape into rings, dip in molasses, then sesame seeds. Bake at 200°C for 20 minutes until golden."
+    }
+  ]
+  
